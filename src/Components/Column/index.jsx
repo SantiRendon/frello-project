@@ -1,4 +1,4 @@
-import { Task } from "./Task";
+import { Task } from "../Task";
 import { Droppable } from "@hello-pangea/dnd";
 
 export function Column({ column, tasks }) {
